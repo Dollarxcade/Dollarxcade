@@ -74,8 +74,18 @@ I am currently continuing my Java studies for AP Computer Science A and CCC prep
 | CSS             |                  |
 
 ---
+## Comp-Sci Social Links
+
+- [w3schools](https://www.w3profile.com/Boketto/)
+- [DMOJ](https://dmoj.ca/user/Boketto)
+
 
 ## Social Links
 
-- Instagram  
-- Twitter  
+- [Instagram](https://www.instagram.com/boketto.sk/)
+- [Twitter](https://x.com/ShafanKhaja)
+- [Youtube](https://www.youtube.com/@boketto_sk/featured)
+- [Twitch](https://www.twitch.tv/boketto_sk)
+- [Discord](https://discord.com/users/928028733758140467)
+- [Spotify](https://open.spotify.com/user/p4njgnm0uz8vit34mx6bxkx25?si=fe8d4bc8fbe54723)
+- [Anilist](https://anilist.co/user/Bokettosk/)
