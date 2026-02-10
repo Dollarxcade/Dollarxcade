@@ -1,14 +1,16 @@
 # Shafan Khaja
 
-I’m Shafan, also known online as Boketto or previously known online as Dollarxcade. I am a high school student interested programming and tech. My long-term academic and career focus is in city planning and civil engineering, with programming and data analysis acting as supporting skills.
+I’m Shafan, also known online as Boketto or previously known online as Dollarxcade. I am a high school student interested programming and tech. My long-term academic and career focus is in city planning and civil engineering, with programming and data analysis acting as supporting skills. I’m more specifically interested in data analysis, urban systems, transit, and building small tools that make workflows more efficient. Long-term, I want to apply these skills in city planning, whether through simulations, custom apps, or data-driven analysis.
 
 If you found this README through a social media link, this page is temporary. My full public portfolio website is currently in development, and this README serves as a short snapshot until that is complete.
 
 ---
 
-## Interests, Passions & Goals
+## Interests & Hobbies
 
-I’m interested in data analysis, urban systems, transit, and building small tools that make workflows more efficient. I enjoy breaking down messy or inefficient systems and figuring out how technology can improve decision-making. Long-term, I want to apply these skills in city planning, whether through simulations, custom apps, or data-driven analysis.
+I enjoy a wide variety of things and tend to rotate between interests depending on what I’m curious about at the moment. I’m really into gaming, especially competitive games like Valorant, where I also enjoy tracking stats, analyzing performance, and thinking about how systems and formats affect outcomes. I also watch a lot of anime and tend to overanalyze stories, themes, and character writing, which has influenced how I think about narratives and long-term growth in my own life.
+
+Outside of that, I’m interested in urban planning, transit, and how cities function as systems. I like paying attention to how public spaces, transportation, and infrastructure actually affect people day to day. I also enjoy cooking, DIY building, and generally tinkering with side projects, whether that’s spreadsheets, simulations, or small tools that solve very specific problems. Overall, I like learning things deeply, even if they seem unrelated at first, and finding ways to connect them together.
 
 ---
 
@@ -89,3 +91,6 @@ I am currently continuing my Java studies for AP Computer Science A and CCC prep
 - [Discord](https://discord.com/users/928028733758140467)
 - [Spotify](https://open.spotify.com/user/p4njgnm0uz8vit34mx6bxkx25?si=fe8d4bc8fbe54723)
 - [Anilist](https://anilist.co/user/Bokettosk/)
+- [Reddit](https://www.reddit.com/user/DOLLARXCADE/)
+- [Tik Tok](https://www.tiktok.com/@boketto.sk)
+- [Steam](https://steamcommunity.com/id/dollarxcade/)
