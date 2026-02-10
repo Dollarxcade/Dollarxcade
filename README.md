@@ -80,6 +80,7 @@ I am currently continuing my Java studies for AP Computer Science A and CCC prep
 
 - [w3schools](https://www.w3profile.com/Boketto/)
 - [DMOJ](https://dmoj.ca/user/Boketto)
+- [Email Me](mailto:shafankhaja@torontomail.com)
 
 
 ## Social Links
@@ -94,3 +95,7 @@ I am currently continuing my Java studies for AP Computer Science A and CCC prep
 - [Reddit](https://www.reddit.com/user/DOLLARXCADE/)
 - [Tik Tok](https://www.tiktok.com/@boketto.sk)
 - [Steam](https://steamcommunity.com/id/dollarxcade/)
+
+## Gaming Tags
+
+Shoot me a DM or message or email or mail or carrier pigeon or message in a bottle if you are interested in gaming with me. I am always open to playing video games :)
