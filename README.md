@@ -77,22 +77,4 @@ I am currently continuing my Java studies for AP Computer Science A and CCC prep
 - [DMOJ](https://dmoj.ca/user/Boketto)
 - [Email Me](mailto:shafankhaja@torontomail.com)
 
-
-## Social Links
-
-- [Instagram](https://www.instagram.com/boketto.sk/)
-- [Twitter](https://x.com/ShafanKhaja)
-- [Youtube](https://www.youtube.com/@boketto_sk/featured)
-- [Twitch](https://www.twitch.tv/boketto_sk)
-- [Discord](https://discord.com/users/928028733758140467)
-- [Spotify](https://open.spotify.com/user/p4njgnm0uz8vit34mx6bxkx25?si=fe8d4bc8fbe54723)
-- [Anilist](https://anilist.co/user/Bokettosk/)
-- [Reddit](https://www.reddit.com/user/DOLLARXCADE/)
-- [Tik Tok](https://www.tiktok.com/@boketto.sk)
-- [Steam](https://steamcommunity.com/id/dollarxcade/)
-
-## Gaming Tags
-
-Shoot me a DM or message or email or mail or carrier pigeon or message in a bottle if you are interested in gaming with me. I am always open to playing video games :)
-
 Last updated 2026-03-05
