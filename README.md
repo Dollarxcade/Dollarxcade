@@ -6,14 +6,6 @@ If you found this README through a social media link, this page is temporary. My
 
 ---
 
-## Interests & Hobbies
-
-I enjoy a wide variety of things and tend to rotate between interests depending on what I’m curious about at the moment. I’m really into gaming, especially competitive games like Valorant, where I also enjoy tracking stats, analyzing performance, and thinking about how systems and formats affect outcomes. I also watch a lot of anime and tend to overanalyze stories, themes, and character writing, which has influenced how I think about narratives and long-term growth in my own life.
-
-Outside of that, I’m interested in urban planning, transit, and how cities function as systems. I like paying attention to how public spaces, transportation, and infrastructure actually affect people day to day. I also enjoy cooking, DIY building, and generally tinkering with side projects, whether that’s spreadsheets, simulations, or small tools that solve very specific problems. Overall, I like learning things deeply, even if they seem unrelated at first, and finding ways to connect them together.
-
----
-
 ## Repository Overview
 
 ### Personal Projects  
@@ -58,6 +50,9 @@ In the same course, I learned the p5.js library and used it to build this portfo
 **Grade 11 — Python Simulations and Data Modeling**  
 As an extension of my data analysis work, I learned how to run simulations using Python with NumPy and pandas. I built a simulation that modeled future matches in a Valorant league and calculated the probability of teams finishing in specific standings positions. This involved random sampling, aggregation, and tabular analysis.
 
+**Grade 11 — Relearning JavaScript for Web Development**  
+I decided to relearn JavaScript from the beginning, this time alongside HTML and CSS. My goal was to properly understand how websites are built and how JavaScript integrates with HTML and CSS. I’m mainly using this knowledge to build my personal portfolio website and other small web projects.
+
 **Present and Future**  
 I am currently continuing my Java studies for AP Computer Science A and CCC preparation while also learning JavaScript alongside HTML and CSS for web development. In the future, I plan to use coding primarily as a tool to support city planning, data-driven decision-making, and personal productivity through custom-built solutions.
 
@@ -71,9 +66,9 @@ I am currently continuing my Java studies for AP Computer Science A and CCC prep
 | Java            | ⭐⭐⭐         |
 | SQL             | ⭐⭐            |
 | JavaScript      | ⭐⭐            |
+| HTML            | ⭐⭐            |
 | Python          | ⭐              |
-| HTML            | ⭐              |
-| CSS             |                  |
+| CSS             | ⭐              |
 
 ---
 ## Comp-Sci Social Links
@@ -100,4 +95,4 @@ I am currently continuing my Java studies for AP Computer Science A and CCC prep
 
 Shoot me a DM or message or email or mail or carrier pigeon or message in a bottle if you are interested in gaming with me. I am always open to playing video games :)
 
-Last updated 2026-02-10
+Last updated 2026-03-05
