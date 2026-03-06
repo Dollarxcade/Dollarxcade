@@ -2,7 +2,7 @@
 
 I’m Shafan, also known online as Boketto or previously known online as Dollarxcade. I am a high school student interested programming and tech. My long-term academic and career focus is in city planning and civil engineering, with programming and data analysis acting as supporting skills. I’m more specifically interested in data analysis, urban systems, transit, and building small tools that make workflows more efficient. Long-term, I want to apply these skills in city planning, whether through simulations, custom apps, or data-driven analysis.
 
-If you found this README through a social media link, this page is temporary. My full public portfolio website is currently in development, and this README serves as a short snapshot until that is complete.
+If you found this README through a social media link, this page was originally temporary while I developed a new website but has now been completed and released to be used [here](https://shafans-personal-website.vercel.app)
 
 ---
 
